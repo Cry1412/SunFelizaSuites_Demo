@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SunFelizaSuites_Demo/static/css/main.d1f55b53.css",
+    "main.js": "/SunFelizaSuites_Demo/static/js/main.c446df9b.js",
+    "index.html": "/SunFelizaSuites_Demo/index.html",
+    "main.d1f55b53.css.map": "/SunFelizaSuites_Demo/static/css/main.d1f55b53.css.map",
+    "main.c446df9b.js.map": "/SunFelizaSuites_Demo/static/js/main.c446df9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f55b53.css",
+    "static/js/main.c446df9b.js"
+  ]
+}
