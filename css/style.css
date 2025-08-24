@@ -303,7 +303,10 @@ header .intro-text {
 }
 /* About Section */
 #about, #about2, #about3, #about4, #about5, #about6, #about7 {
-  padding: 100px 0;
+  padding: 60px 0;
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
 }
 #about h3, #about2 h3, #about3 h3, #about4 h3, #about5 h3, #about6 h3, #about7 h3 {
   font-size: 22px;
@@ -323,8 +326,15 @@ header .intro-text {
   bottom: 0;
   left: 0;
 }
+#about .about-text, #about2 .about-text, #about3 .about-text, #about4 .about-text, #about5 .about-text, #about6 .about-text, #about7 .about-text {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
 #about .about-text li, #about2 .about-text li, #about3 .about-text li, #about4 .about-text li, #about5 .about-text li, #about6 .about-text li, #about7 .about-text li {
-  margin-bottom: 6px;
+  margin-bottom: 10px;
   margin-left: 6px;
   list-style: none;
   padding: 0;
@@ -338,11 +348,13 @@ header .intro-text {
   padding-right: 8px;
 }
 #about img, #about2 img, #about3 img, #about4 img, #about5 img, #about6 img, #about7 img {
-  width: 520px;
-  margin-top: 10px;
+  max-width: 100%;
+  height: auto;
+  /* margin-top: 10px; */
+  border-radius: 16px;
   background: #fff;
   border-right: 0;
-  box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
 }
 #about p, #about2 p, #about3 p, #about4 p, #about5 p, #about6 p, #about7 p {
   line-height: 24px;

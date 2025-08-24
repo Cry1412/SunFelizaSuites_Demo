@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SunFelizaSuites_Demo/static/css/main.aa1b891c.css",
-    "main.js": "/SunFelizaSuites_Demo/static/js/main.579e6797.js",
+    "main.css": "/SunFelizaSuites_Demo/static/css/main.d69bd1a6.css",
+    "main.js": "/SunFelizaSuites_Demo/static/js/main.2246fe4b.js",
     "index.html": "/SunFelizaSuites_Demo/index.html",
-    "main.aa1b891c.css.map": "/SunFelizaSuites_Demo/static/css/main.aa1b891c.css.map",
-    "main.579e6797.js.map": "/SunFelizaSuites_Demo/static/js/main.579e6797.js.map"
+    "main.d69bd1a6.css.map": "/SunFelizaSuites_Demo/static/css/main.d69bd1a6.css.map",
+    "main.2246fe4b.js.map": "/SunFelizaSuites_Demo/static/js/main.2246fe4b.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa1b891c.css",
-    "static/js/main.579e6797.js"
+    "static/css/main.d69bd1a6.css",
+    "static/js/main.2246fe4b.js"
   ]
 }
